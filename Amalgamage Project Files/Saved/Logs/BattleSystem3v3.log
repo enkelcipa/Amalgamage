@@ -1715,3 +1715,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.01-13.19.21:276][658]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.06.01-13.19.22:933][658]LogExit: Editor shut down
 [2026.06.01-13.19.23:014][658]LogExit: Transaction tracking system shut down
+[2026.06.01-13.19.33:559][658]LogExit: Object subsystem successfully closed.
+[2026.06.01-13.19.33:618][658]LogShaderCompilers: Display: Shaders left to compile 0
