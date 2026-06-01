@@ -1717,3 +1717,16 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.01-13.19.23:014][658]LogExit: Transaction tracking system shut down
 [2026.06.01-13.19.33:559][658]LogExit: Object subsystem successfully closed.
 [2026.06.01-13.19.33:618][658]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.01-13.19.39:587][658]LogHttpServerModule: Stopping all listeners...
+[2026.06.01-13.19.39:587][658]LogHttpListener: HttpListener stopping listening on Port 30010
+[2026.06.01-13.19.39:587][658]LogHttpServerModule: All listeners stopped
+[2026.06.01-13.19.39:678][658]LogHttpServerModule: Stopping all listeners...
+[2026.06.01-13.19.39:678][658]LogHttpServerModule: All listeners stopped
+[2026.06.01-13.19.40:926][658]LogMemoryProfiler: Shutdown
+[2026.06.01-13.19.40:945][658]LogNetworkingProfiler: Shutdown
+[2026.06.01-13.19.40:946][658]LoadingProfiler: Shutdown
+[2026.06.01-13.19.40:947][658]LogTimingProfiler: Shutdown
+[2026.06.01-13.19.41:081][658]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.01-13.19.41:118][658]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.01-13.19.43:803][658]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.01-13.19.43:909][658]LogNFORDenoise: NFORDenoise function shutting down
